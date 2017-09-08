@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on Alessandro Maruccia</title>
-    <link>https://alesma.github.io/contact/</link>
+    <link>alessandromaruccia.com/contact/</link>
     <description>Recent content in Get in touch on Alessandro Maruccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>true</copyright>
     <lastBuildDate>Sun, 11 Jun 2017 18:07:03 +0200</lastBuildDate>
     
-	<atom:link href="https://alesma.github.io/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="alessandromaruccia.com/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

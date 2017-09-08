@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alessandro Maruccia</title>
-    <link>https://alesma.github.io/</link>
+    <link>alessandromaruccia.com/</link>
     <description>Recent content on Alessandro Maruccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>true</copyright>
     <lastBuildDate>Sun, 18 Jun 2017 18:07:03 +0200</lastBuildDate>
     
-	<atom:link href="https://alesma.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="alessandromaruccia.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Keep moving forward</title>
-      <link>https://alesma.github.io/post/keep-moving-forward/</link>
+      <link>alessandromaruccia.com/post/keep-moving-forward/</link>
       <pubDate>Sun, 18 Jun 2017 18:07:03 +0200</pubDate>
       
-      <guid>https://alesma.github.io/post/keep-moving-forward/</guid>
+      <guid>alessandromaruccia.com/post/keep-moving-forward/</guid>
       <description>Intro I have been developing and designing websites for more than a few years now, to give you an idea, my very first website was built with tables on Microsoft Frontpage and Internet Explorer 5.5. Back then, trying to explain your friends and relatives what you were doing in your bedroom was pretty funny. I still remember their reactions, nodding at me with their eyes slightly closed.
  My dad best attempt    It wasn&amp;rsquo;t rocket science anyway, I was trying my best explaining them how things works, pretty easy stuff at the time.</description>
     </item>

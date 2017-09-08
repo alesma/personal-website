@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Alessandro Maruccia</title>
-    <link>https://alesma.github.io/categories/</link>
+    <link>alessandromaruccia.com/categories/</link>
     <description>Recent content in Categories on Alessandro Maruccia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>true</copyright>
     
-	<atom:link href="https://alesma.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="alessandromaruccia.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
