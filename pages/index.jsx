@@ -1,9 +1,18 @@
 import "../scss/reset.scss";
 import "../scss/global.scss";
+
 import Typewriter from "../components/typewriter";
+import Head from "next/head";
 
 export default () => (
   <div className="content">
+    <Head>
+      <title>Alessandro Maruccia - Web developer & Designer</title>
+      <meta name="description" content="I’m a web developer & designer, working in the digital world since 2006."/>
+	    <meta name="robots" content="index, follow"/>
+	    <meta rel="canonical" href="https://alessandromaruccia.com/"/>
+      <link rel="icon" type="image/x-icon" href="/static/favicon.ico" />
+    </Head>
     <h1 className="title">
       <Typewriter text="Alessandro Maruccia" />
     </h1>
@@ -29,7 +38,8 @@ export default () => (
 
     <div className="footer">
       <p>
-        Find me here: <a href="https://github.com/alesma" target="_blank">
+        Find me here:{" "}
+        <a href="https://github.com/alesma" target="_blank">
           github
         </a>{" "}
         -{" "}
