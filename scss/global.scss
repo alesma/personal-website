@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  font-size: 62.5%;
+  font-size: 80%;
 }
 
 body {
@@ -18,28 +18,30 @@ body {
 }
 
 h1 {
-    margin: 2rem 0;
+  margin: 2rem 0;
 }
 
 h2 {
-    margin: 1rem 0;
+  margin: 1rem 0;
 }
 
 p {
-    font-size: 1.4rem;
-    line-height: 2;
-    margin: 2rem 0;
+  font-size: 1.4rem;
+  line-height: 2;
+  margin: 2rem 0;
 }
 
 a {
-    color: #ccc;
-    &:hover {
-        color: darken(#ccc, 15%);
-    }
+  color: #ccc;
+  font-size: 1.4rem;
+
+  &:hover {
+    color: darken(#ccc, 15%);
+  }
 }
 
-@media screen and (max-width: 900px) {
-    body {
-
+@media (min-width: 800px) {
+    html {
+        font-size: 62.5%;
     }
 }
