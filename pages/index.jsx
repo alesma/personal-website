@@ -24,10 +24,10 @@ export default () => (
     <p>
       I’m a web developer & designer, working in the digital world since 2006.{" "}
       <br /> I have worked with media agencies in Rome, startups in Berlin,
-      iGaming companies in Malta.
+      igaming companies in Malta.
       <br />
       I’m currently employed as Senior Front End Developer at Gaming Innovation
-      Group. <br />
+      Group in Marbella, Spain. <br />
       If you wish, you can get in touch with me via email at{" "}
       <a href="mailto:alesmaru@gmail.com">alesmaru@gmail.com</a>.
     </p>
@@ -51,7 +51,7 @@ export default () => (
           instagram
         </a>
       </p>
-      <p>Based in Malta</p>
+      <p>Based in Marbella, Spain</p>
       <p>From Galatina, Italy</p>
     </div>
 
