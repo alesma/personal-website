@@ -18,7 +18,7 @@ export default () => (
     </h1>
 
     <p className="hero">
-      I'm <a href="mailto:alesmaru@gmail.com">available</a> for freelance design
+      I'm <a href="mailto:alesmaru@gmail.com">available</a> for freelance
       projects & collaborations
     </p>
     <p>
@@ -30,6 +30,10 @@ export default () => (
       Group in Marbella, Spain. <br />
       If you wish, you can get in touch with me via email at{" "}
       <a href="mailto:alesmaru@gmail.com">alesmaru@gmail.com</a>.
+    </p>
+
+    <p className="hero">
+      Check out my latest project: <a href="https://www.happyandalusia.com" target="_blank">Happy Andalusia</a>
     </p>
 
     {/* <p>
