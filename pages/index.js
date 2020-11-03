@@ -80,6 +80,7 @@ export default function IndexPage() {
         {`
         .title {
           font-size: 2.2rem;
+          margin-top: 30px;
         }
 
         .content {
