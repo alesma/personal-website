@@ -1,15 +1,61 @@
 @tailwind base;
 
 /* Write your own custom base styles here */
+html {
+  box-sizing: border-box;
+  font-size: 80%;
+}
+
+body {
+  background: black;
+  color: white;
+  font-size: 1.4rem;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen,
+    Oxygen-Sans, "Fira Sans", "Droid Sans", Ubuntu, Cantarell, "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin: auto;
+  max-width: 800px;
+  padding: 40px;
+}
+
+h1 {
+  margin: 2rem 0;
+}
+
+h2 {
+  margin: 1rem 0;
+}
+
+p {
+  font-size: 1.4rem;
+  line-height: 2;
+  margin: 2rem 0;
+}
+
+a {
+  color: #ccc;
+  font-size: 1.4rem;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: darken(#ccc, 15%);
+}
+
+@media (min-width: 800px) {
+    html {
+        font-size: 62.5%;
+    }
+}
+
 
 /* Start purging... */
 @tailwind components;
 /* Stop purging. */
 
 /* Write your own custom component styles here */
-.btn-blue {
-  @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
-}
 
 /* Start purging... */
 @tailwind utilities;
