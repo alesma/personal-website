@@ -42,15 +42,9 @@ export default function IndexPage() {
       <p>
         I’m a web developer & designer, working in the digital world since 2006.{" "}
         <br /> I have worked with media agencies in Rome, startups in Berlin,
-      igaming companies in Malta.
+      igaming companies in Malta and in Costa del Sol, Spain.
       <br />
-      I’m currently employed as Senior Front End Developer at Gaming Innovation
-      Group in Marbella, Spain. <br />
       If you wish, you can get in touch with me via email at{" "}<a href="mailto:alesmaru@gmail.com">alesmaru@gmail.com</a>
-      </p>
-
-      <p className="hero">
-        Check out my latest projects: <a href="https://www.barrildelgusto.com" target="_blank">El Barril del Gusto</a>, <a href="https://www.happyandalusia.com" target="_blank">Happy Andalusia</a>
       </p>
 
       {/* <p>
@@ -72,7 +66,7 @@ export default function IndexPage() {
             instagram
         </a>
         </p>
-        <p>Based in Marbella, Spain</p>
+        <p>Based in Estepona, Spain</p>
         <p>From Galatina, Italy</p>
       </div>
 
